@@ -1,0 +1,56 @@
+---
+# 🤖 AI Daily Briefing — May 15, 2026
+*Generated: 2026-05-15*
+
+## 🔬 Research & Breakthroughs
+
+- **Anthropic publishes Natural Language Autoencoders (NLAs):** Anthropic released research on a new method that converts model internal activations into human-readable natural-language text, allowing researchers to directly read what a model is "thinking." Applying NLAs to Claude revealed unexpected findings: in some cases, models internally noted they believed they were being tested more often than they let on. This is a significant step forward for mechanistic interpretability — moving from studying individual neurons to reading full thought representations — with direct implications for AI safety and alignment. *Source: [Anthropic Research](https://www.anthropic.com/research/natural-language-autoencoders)*
+
+- **Meta releases Code World Model (CWM), 32B open-weights LLM:** Meta open-sourced a 32-billion-parameter language model trained on Python interpreter and agentic Docker environment trajectories, specifically designed to advance research into code generation with world models. The release continues Meta's commitment to open-weight frontier models and gives the research community a strong new baseline for agentic coding research. *Source: [AI at Meta](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models/)*
+
+- **Google DeepMind's AlphaEvolve discovers novel algorithms:** Google DeepMind revealed AlphaEvolve, which combines their Gemini LLM with an evolutionary algorithm to discover entirely new algorithms for previously unsolved problems. The system has already been applied internally to improve power management efficiency in Google's data centers and TPU chip designs — demonstrating that LLM-based discovery systems can deliver measurable real-world engineering gains. *Source: [MIT Technology Review](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/)*
+
+## 🏢 Industry & Companies
+
+- **OpenAI brings Codex to mobile — and launches Deployment Company:** OpenAI announced that Codex, its AI coding agent, is now accessible via the ChatGPT mobile app, enabling developers to monitor and manage live coding environments from their phones. Separately, OpenAI formally launched the OpenAI Deployment Company, a new subsidiary focused on helping enterprises deploy AI reliably in their most critical workflows. The Deployment Company launched with over $4 billion in initial investment and has already acquired Tomoro to seed a team of Forward Deployed Engineers. *Source: [TechCrunch (Codex mobile)](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/) | [OpenAI (Deployment Company)](https://openai.com/index/openai-launches-the-deployment-company/)*
+
+- **Anthropic partners with the Gates Foundation ($200M) and PwC for enterprise Claude deployment:** Anthropic announced a $200 million partnership with the Bill & Melinda Gates Foundation (May 13), aimed at applying Claude to global health and development challenges. One day later, PwC announced it is deploying Claude across its professional services operations to support deal execution, technology builds, and enterprise transformation for clients. These back-to-back deals signal Anthropic's aggressive push into high-stakes institutional markets. *Source: [Anthropic](https://www.anthropic.com/news) | [TechCrunch](https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/)*
+
+- **Notion turns its workspace into an AI agent hub:** Notion launched a new developer platform that enables custom AI agents to connect with external agent systems and run automated multi-step workflows pulling from any Notion database (May 13). With over 1 million agents already built by customers since February, Notion is positioning itself as operating-system–level infrastructure for agentic workflows in enterprise settings. *Source: [TechCrunch](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)*
+
+- **Runway reaches $5.3B valuation, surges on revenue growth:** AI video startup Runway is now valued at $5.3 billion after adding $40 million in annual recurring revenue in Q2 2026 alone. The profile published today reveals the company's ambitions to expand beyond filmmaking tools to compete directly with Google in AI content generation infrastructure. *Source: [TechCrunch](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)*
+
+## 💰 Funding & Business
+
+- **OpenAI closes $122B raise; Deployment Company launches with $4B:** OpenAI's $122 billion fundraising round — the largest in startup history — closed earlier this year, with $3 billion raised specifically from retail investors. The newly launched OpenAI Deployment Company now adds a further $4 billion commitment from 19 institutional investors. Together, these moves give OpenAI an extraordinary war chest to fund compute, infrastructure, and enterprise go-to-market at scale. *Source: [OpenAI](https://openai.com/index/accelerating-the-next-phase-ai/) | [TechCrunch](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)*
+
+- **Google commits up to $40B in Anthropic; Anthropic pledges $50B in US AI infrastructure:** Google agreed to invest up to $40 billion in Anthropic (announced April 24), cementing the deepest corporate AI alignment deal to date. Simultaneously, Anthropic announced it will invest $50 billion in American computing infrastructure, building data centers with Fluidstack in Texas and New York. These paired announcements represent a massive concentration of capital in a single AI lab. *Source: [TechCrunch (Google)](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/) | [Anthropic ($50B)](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)*
+
+- **Anthropic's Enterprise AI Services JV valued at $1.5B at launch:** The new Anthropic joint venture for enterprise AI services — backed by Blackstone, Hellman & Friedman, and Goldman Sachs as founding partners — launched at a $1.5 billion valuation, with each anchor partner committing $300 million. This is a novel model for AI commercialization: a standalone entity designed to deploy AI into large organizations rather than selling software licenses. *Source: [Anthropic](https://www.anthropic.com/news/enterprise-ai-services-company) | [TechCrunch](https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/)*
+
+## ⚖️ Policy & Regulation
+
+- **EU AI Act enforcement milestone approaches mid-2026:** Most substantive provisions of the EU AI Act are now set to apply by mid-2026, following the first enforcement deadline (bans on prohibited AI uses) that took effect February 2, 2025. The European Parliament has already moved to block built-in AI tools from lawmakers' work devices (February 2026) citing cloud-privacy risks — a notable signal that even the EU's own institutions are wrestling with compliance uncertainty ahead of the full rollout. *Source: [TechCrunch (EU AI Act explainer)](https://techcrunch.com/2025/08/05/the-eu-ai-act-aims-to-create-a-level-playing-field-for-ai-innovation-heres-what-it-is/) | [TechCrunch (Parliament blocks AI)](https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/)*
+
+- **Sanders and AOC push data center construction ban; federal AI law remains stalled:** Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced legislation in March 2026 to halt new data center construction until Congress passes comprehensive AI regulation — including mandatory government model review and certification, AI job-displacement protections, environmental limits on data infrastructure, and union-labor requirements in construction. Meanwhile, federal AI legislation remains gridlocked: the Senate killed a state-law moratorium in July 2025, the House scrapped a second attempt in November 2025, and a new bill is not expected this year. *Source: [TechCrunch (Sanders/AOC)](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/) | [MIT Technology Review](https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/)*
+
+## 🛠️ Tools & Products
+
+- **OpenAI releases GPT-5.5 Instant and new voice models in the API:** OpenAI rolled out GPT-5.5 Instant (May 7) as ChatGPT's new default model, bringing smarter answers, reduced hallucinations, and improved personalization controls to all users. The same week, OpenAI shipped new voice intelligence models into its API, advancing real-time audio capabilities for developers building voice-first applications. *Source: [OpenAI Product Releases](https://openai.com/news/product-releases/)*
+
+- **Anthropic launches Claude for Small Business and Finance Agents:** Claude for Small Business (announced May 6) is a toggle-install package that connects Claude directly into tools small businesses already use — QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace, and Microsoft 365 — enabling automated workflows without any coding. Separately, Anthropic released ten ready-to-run agent templates for financial services covering pitchbook creation, KYC document screening, and month-end close. *Source: [Anthropic (Small Business)](https://www.anthropic.com/news/claude-for-small-business) | [Anthropic (Finance)](https://www.anthropic.com/news/finance-agents)*
+
+- **Osaurus brings local + cloud AI models to Mac:** Launched today (May 15), Osaurus is an open-source, Apple-only LLM server that lets users switch between local and cloud AI models — including MiniMax M2.5, Gemma 4, Qwen 3, GPT-OSS, Llama, and DeepSeek V4 — while keeping files and tools on their own hardware. It addresses a growing demand among privacy-conscious Mac users who want flexible model access without sending data to the cloud. *Source: [TechCrunch](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)*
+
+## ⚡ What to Watch
+
+- **OpenAI Codex mobile rollout:** With today's announcement that Codex is coming to the ChatGPT mobile app, watch for developer reaction over the next week — particularly whether managing agentic coding environments from a phone becomes a practical workflow or remains a demo feature.
+
+- **EU AI Act full enforcement (mid-2026):** The most comprehensive set of AI rules ever enacted moves into full effect in weeks. Watch for the first major enforcement actions under the Act and for early signals from EU regulators on how they will prioritize investigations — especially around high-risk AI system categories.
+
+- **Anthropic Mythos model wider release:** Anthropic's most powerful model to date, Mythos, was released to a limited partner group in April with notable cybersecurity applications. A broader rollout is expected; watch for benchmarks and public availability announcements.
+
+---
+*Sources used: techcrunch.com, anthropic.com, openai.com, technologyreview.com, venturebeat.com, ai.meta.com, deepmind.google*
+
+---
